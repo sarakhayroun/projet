@@ -1,0 +1,63 @@
+
+.header img{
+    width: 150px;
+    height: 150px;
+}
+header{
+    display: flex;
+
+    align-items: center;
+    
+    justify-content: space-between ;  
+    background-color: #8d6e63; 
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+
+}
+.container1{
+    background-image: url(background-office-bg-changed\ \(2\).jpg);
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+.container2 img{ 
+    height: 150px;
+    width: 150px;
+    
+    background-color: #8d6e63;
+    border-radius: 15px;
+}
+.container2{ 
+    padding: 40px;
+    text-align: center;
+    background-color: #d7ccc8 ;
+    width:25%;
+    border-radius: 15px;
+    
+    
+}
+.mainContainer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #f4f1ea;
+    margin: 30px;
+    padding: 30px;
+    
+}
+.last{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #8d6e63;
+    color: white;
+    height: 50px;
+}
+
+
+
+
